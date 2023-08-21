@@ -26,7 +26,7 @@ function Project() {
                         </div>
                         <div className='Project__Buttons'>
                             <button className='Project__Btn'
-                                onClick={() => { window.location.assign("https://64be95c54e10610dfdd790ba--symphonious-figolla-b9cb2e.netlify.app/") }}>
+                                onClick={() => { window.location.assign("https://crypto-vercel-delta.vercel.app/") }}>
                                 <FaArrowRight className='git' /> VISIT
                             </button>
                             <button className='Project__Btn'
@@ -50,7 +50,7 @@ function Project() {
                         </div>
                         <div className='Project__Buttons'>
                             <button className='Project__Btn'
-                                onClick={() => { window.location.assign("https://64be9ee330dc420f0fed78ec--classy-duckanoo-42c024.netlify.app/") }}>
+                                onClick={() => { window.location.assign("https://podcast-iota-five.vercel.app/") }}>
                                 <FaArrowRight className='git' /> VISIT
                             </button>
                             <button className='Project__Btn'
@@ -75,7 +75,7 @@ function Project() {
                         </div>
                         <div className='Project__Buttons'>
                             <button className='Project__Btn'
-                                onClick={() => { window.location.assign("https://64bf6a35fbb98c2c809ca616--magnificent-macaron-0eb24f.netlify.app/") }}>
+                                onClick={() => { window.location.assign("https://amazon-clone-eta-opal.vercel.app/") }}>
                                 <FaArrowRight className='git' /> VISIT
                             </button>
                             <button className='Project__Btn'

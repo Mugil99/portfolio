@@ -13,7 +13,7 @@ function Education() {
                 </h2>
                 <p>B.E. Agricultural & Irrigation Engineering</p>
                 <p className='Year'>AUG 2017 - JUNE 2021</p>
-                <p>Completed with First Class - 75%</p>
+                <p>Completed with First Class - 74%</p>
             </div>
         </div>
     );

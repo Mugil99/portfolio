@@ -3,7 +3,7 @@ import "../Styles/Home.css";
 import { ImLinkedin } from "react-icons/im";
 import { BsGithub } from "react-icons/bs";
 import logo from '../Images/logo.svg';
-
+import Resume from '../Images/Mugilyalini_Resume.pdf';
 function Home() {
     return (
         <div className='Home' id='Home'>
@@ -18,10 +18,11 @@ function Home() {
                     <BsGithub className='Home__Icon' onClick={() => { window.location.assign("https://github.com/Mugil99") }} />
                     <ImLinkedin className='Home__Icon' onClick={() => { window.location.assign("https://www.linkedin.com/in/mugilyalini/") }} />
                 </div>
-                <button className='Resume'
-                    onClick={() => { window.location.assign("https://www.canva.com/design/DAFUuD917Bo/view") }}>
-                    View Resume
-                </button>
+               <a href={Resume} target="_blank"> 
+                    <button className='Resume'>
+                        View Resume
+                    </button>
+               </a>
             </div>
         </div>
     );
